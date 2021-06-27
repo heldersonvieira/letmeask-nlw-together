@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/50646516/123531808-0a5ec980-d6de-11eb-8cea-ff9bcd8c38b7.png)
 
 # Tecnologias
-- Firebase
+- React
 - TypeScript
 - Firebase
 
